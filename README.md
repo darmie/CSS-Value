@@ -1,6 +1,8 @@
 # CSS-Value
 A tiny cross-platform library for parsing css values, based on this Nodejs module [css-value](https://github.com/reworkcss/css-value)
 
+This library is developed with [haxe](http://haxe.org) to be cross-platform and is expected to work on Java, Javascript, Neko and C++ versions.
+
 ```hx
 class Test 
 {
