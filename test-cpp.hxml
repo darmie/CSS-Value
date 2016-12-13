@@ -1,0 +1,6 @@
+
+-cp src
+-cpp cpp-build
+-main Test
+-cmd cd cpp-build
+-cmd Test
