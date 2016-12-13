@@ -1,5 +1,5 @@
 # CSS-Value
-A tiny cross-platform library for parsing css values. 
+A tiny cross-platform library for parsing css values, based on this Nodejs module [css-value](https://github.com/reworkcss/css-value)
 
 ```hx
 class Test 
