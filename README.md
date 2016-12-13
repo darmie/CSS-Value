@@ -13,7 +13,7 @@ class Test
 
 		trace(CSSValue.parse(str));
 	}
-	
+}	
 ```
 The result
 
