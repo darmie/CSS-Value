@@ -15,8 +15,8 @@ class Test
 	}
 }	
 ```
-Run the test in commandline like this `haxe test.hxml` , this assumes you have the haxe compiler installed.
-If you don't want to use the Haxe compiler, you can test using Java like this `java -jar bin/Test.jar` or the javascript target in browser : put the html/Test.js in script tag of your html application and test.
+* Run the test in terminal like this `haxe test.hxml` , this assumes you have the haxe compiler installed.
+* If you don't want to use the Haxe compiler, you can test using Java like this `java -jar bin/Test.jar` or the javascript target in browser : put the html/Test.js in script tag of your html application and test.
 
 The result
 
